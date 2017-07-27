@@ -1,4 +1,7 @@
 ### 0.7.0
+ * Minor change. Updating Composer.json to allow latest versions of Guzzle and Guzzle/Services
+  
+### 0.7.0
 
  * API minorRev upgraded to 30 from 28 (http://dev.ean.com/docs/api-change-log/)
  * ChargeableRateInfo.NightlyRates is now ChargeableRateInfo.NightlyRatesPerRoom 
