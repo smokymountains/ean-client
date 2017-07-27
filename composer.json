@@ -1,6 +1,6 @@
 {
-    "name": "onlinetravelgroup/ean-client",
-    "description": "Client for consuming the EAN Hotel API, based on Guzzle",
+    "name": "smokymountains/ean-client",
+    "description": "Client for consuming the EAN Hotel API, based on Guzzle - forked for Guzzle 6.0",
     "require": {
         "php": ">=5.4",
         "guzzlehttp/guzzle-services": ">=6.0"
