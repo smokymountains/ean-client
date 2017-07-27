@@ -1,4 +1,4 @@
-### 0.7.0
+### 0.8.0
  * Minor change. Updating Composer.json to allow latest versions of Guzzle and Guzzle/Services
   
 ### 0.7.0
